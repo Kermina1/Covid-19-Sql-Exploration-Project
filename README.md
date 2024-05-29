@@ -8,4 +8,6 @@ This project is dedicated to exploring and analyzing COVID-19 data using SQL. Th
 ### What I learned 
 - Learned how to write efficient SQL queries to handle and explore large datasets.
 - Used aggregate functions, join , CTEs, Temp Tables,  Creating Views, Converting Data Types and window functions to derive meaningful insights.
+### Future work 
+Integrate the SQL queries with visualization tools such as Tableau or Power BI to create interactive dashboards.
   
